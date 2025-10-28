@@ -7,7 +7,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PlantUML](https://img.shields.io/badge/PlantUML-Medalla%20Manual-blue?style=for-the-badge&logo=plantuml)
+![PlantUML](https://img.shields.io/badge/PlantUML-blue?style=for-the-badge&logo=plantuml)
 
 
 ### Github Stats

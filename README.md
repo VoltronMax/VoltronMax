@@ -2,14 +2,23 @@
   <img src="https://raw.githubusercontent.com/VoltronMax/VoltronMax/main/808ded91-eb2e-43a6-a200-594d831576c3.png" alt="Header Parappa" width="100%" height="200">
 </p>
 
-### Technologies in process:
+### IDEs
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=microsoft&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-blue?style=for-the-badge&logo=intellijidea)
+
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### Tools
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PlantUML](https://img.shields.io/badge/PlantUML-blue?style=for-the-badge&logo=plantuml)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
+### Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+<hr style="border: 2px solid rgb(255,100,50); width: 80%; box-shadow: 0 0 5px rgb(255,100,50);">
 
 ### Github Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=VoltronMax&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
